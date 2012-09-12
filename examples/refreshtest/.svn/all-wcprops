@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/refreshtest
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/refreshtest/mainwindow.cpp
+END
+refreshtest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/examples/refreshtest/refreshtest.pro
+END
+circularbuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/refreshtest/circularbuffer.cpp
+END
+plot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/refreshtest/plot.cpp
+END
+panel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/refreshtest/panel.cpp
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/refreshtest/mainwindow.h
+END
+circularbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/refreshtest/circularbuffer.h
+END
+plot.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/refreshtest/plot.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/refreshtest/main.cpp
+END
+panel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/refreshtest/panel.h
+END
+settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/refreshtest/settings.h
+END

@@ -1,0 +1,162 @@
+10
+
+dir
+1439
+https://qwt.svn.sourceforge.net/svnroot/qwt/branches/qwt-6.0/examples
+https://qwt.svn.sourceforge.net/svnroot/qwt
+
+
+
+2012-07-25T07:19:24.259087Z
+1379
+rathmann
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+faaa3a9e-0925-0410-81f4-d24c91c4c0de
+
+event_filter
+dir
+
+cpuplot
+dir
+
+spectrogram
+dir
+
+simpleplot
+dir
+
+tvplot
+dir
+
+friedberg
+dir
+
+sysinfo
+dir
+
+rasterview
+dir
+
+dials
+dir
+
+svgmap
+dir
+
+refreshtest
+dir
+
+radio
+dir
+
+oscilloscope
+dir
+
+navigation
+dir
+
+sinusplot
+dir
+
+realtime
+dir
+
+plotmatrix
+dir
+
+curvdemo1
+dir
+
+sliders
+dir
+
+curvdemo2
+dir
+
+examples.pri
+file
+
+
+
+
+2012-09-12T12:29:36.039340Z
+527d80a3a8ecf4bcb6f96b5663c102ac
+2012-07-25T07:19:24.259087Z
+1379
+rathmann
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1033
+
+bode
+dir
+
+stylesheets
+dir
+
+examples.pro
+file
+
+
+
+
+2012-09-12T12:29:36.039340Z
+77cfac98915d7fb1b04c27fd80451dab
+2012-07-15T08:41:49.285746Z
+1353
+rathmann
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1076
+

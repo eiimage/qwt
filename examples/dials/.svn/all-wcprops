@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qwt/!svn/ver/1361/branches/qwt-6.0/examples/dials
+END
+dials.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/dials/dials.cpp
+END
+attitude_indicator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/qwt/!svn/ver/1076/branches/qwt-6.0/examples/dials/attitude_indicator.cpp
+END
+compass_grid.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/dials/compass_grid.h
+END
+speedo_meter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/dials/speedo_meter.h
+END
+cockpit_grid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qwt/!svn/ver/1361/branches/qwt-6.0/examples/dials/cockpit_grid.cpp
+END
+attitude_indicator.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/dials/attitude_indicator.h
+END
+cockpit_grid.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/dials/cockpit_grid.h
+END
+compass_grid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/dials/compass_grid.cpp
+END
+dials.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/examples/dials/dials.pro
+END
+speedo_meter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/dials/speedo_meter.cpp
+END

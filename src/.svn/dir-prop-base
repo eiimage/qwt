@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 98
+obj
+moc
+Makefile
+moc-release-shared
+obj-release-shared
+.qmake.cache
+Makefile.target
+src.pro.cache
+
+END

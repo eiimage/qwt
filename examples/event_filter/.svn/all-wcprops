@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/event_filter
+END
+colorbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/event_filter/colorbar.h
+END
+canvaspicker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/event_filter/canvaspicker.cpp
+END
+scalepicker.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/event_filter/scalepicker.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/examples/event_filter/README
+END
+canvaspicker.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/event_filter/canvaspicker.h
+END
+plot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/event_filter/plot.cpp
+END
+colorbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/event_filter/colorbar.cpp
+END
+plot.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/event_filter/plot.h
+END
+event_filter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/examples/event_filter/event_filter.pro
+END
+scalepicker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/event_filter/scalepicker.cpp
+END
+event_filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/event_filter/event_filter.cpp
+END

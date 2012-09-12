@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qwt/!svn/ver/1379/branches/qwt-6.0/textengines/mathml
+END
+qtmmlwidget-license
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/textengines/mathml/qtmmlwidget-license
+END
+qwt_mml_document.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/qwt/!svn/ver/1203/branches/qwt-6.0/textengines/mathml/qwt_mml_document.cpp
+END
+mathml.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qwt/!svn/ver/1379/branches/qwt-6.0/textengines/mathml/mathml.pro
+END
+qwt_mml_document.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/textengines/mathml/qwt_mml_document.h
+END
+qwtmathml.prf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/textengines/mathml/qwtmathml.prf
+END
+qtmmlwidget.cpp.diff
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/textengines/mathml/qtmmlwidget.cpp.diff
+END
+qwt_mathml_text_engine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/textengines/mathml/qwt_mathml_text_engine.cpp
+END
+qwt_mathml_text_engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/textengines/mathml/qwt_mathml_text_engine.h
+END

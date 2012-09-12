@@ -1,0 +1,923 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/qwt/!svn/ver/1417/branches/qwt-6.0/src
+END
+qwt_clipper.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_clipper.h
+END
+qwt_scale_draw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qwt/!svn/ver/1323/branches/qwt-6.0/src/qwt_scale_draw.cpp
+END
+qwt_compass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qwt/!svn/ver/1323/branches/qwt-6.0/src/qwt_compass.cpp
+END
+qwt_plot_zoomer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_zoomer.cpp
+END
+qwt_plot_scaleitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_scaleitem.h
+END
+qwt_event_pattern.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_event_pattern.cpp
+END
+qwt_picker.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_picker.h
+END
+qwt_plot_intervalcurve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/qwt/!svn/ver/1346/branches/qwt-6.0/src/qwt_plot_intervalcurve.cpp
+END
+qwt_series_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1293/branches/qwt-6.0/src/qwt_series_data.h
+END
+qwt_text_label.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_text_label.h
+END
+qwt_text.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_text.h
+END
+qwt_plot_item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1322/branches/qwt-6.0/src/qwt_plot_item.cpp
+END
+qwt_compass_rose.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1067/branches/qwt-6.0/src/qwt_compass_rose.cpp
+END
+qwt_plot_rescaler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qwt/!svn/ver/1070/branches/qwt-6.0/src/qwt_plot_rescaler.cpp
+END
+qwt_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_math.h
+END
+qwt_plot_scaleitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_scaleitem.cpp
+END
+qwt_symbol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qwt/!svn/ver/1080/branches/qwt-6.0/src/qwt_symbol.cpp
+END
+qwt_painter.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qwt/!svn/ver/1374/branches/qwt-6.0/src/qwt_painter.h
+END
+qwt_text_engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_text_engine.h
+END
+qwt_plot_svgitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_svgitem.h
+END
+qwt_legend_item.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_legend_item.h
+END
+qwt_text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_text.cpp
+END
+qwt.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt.h
+END
+qwt_point_polar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_point_polar.cpp
+END
+qwt_plot_panner.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_panner.h
+END
+qwt_slider.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_slider.h
+END
+qwt_raster_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1366/branches/qwt-6.0/src/qwt_raster_data.cpp
+END
+qwt_plot_spectrogram.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_plot_spectrogram.h
+END
+qwt_interval.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qwt/!svn/ver/1273/branches/qwt-6.0/src/qwt_interval.h
+END
+qwt_double_range.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_double_range.h
+END
+qwt_plot_intervalcurve.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_plot_intervalcurve.h
+END
+qwt_plot_xml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_xml.cpp
+END
+qwt_magnifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1410/branches/qwt-6.0/src/qwt_magnifier.cpp
+END
+qwt_dyngrid_layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_dyngrid_layout.h
+END
+qwt_picker_machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_picker_machine.h
+END
+qwt_color_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_color_map.cpp
+END
+qwt_plot_svgitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_svgitem.cpp
+END
+qwt_legend_item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_legend_item.cpp
+END
+qwt_plot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qwt/!svn/ver/1080/branches/qwt-6.0/src/qwt_plot.cpp
+END
+qwt_dial.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_dial.h
+END
+qwt_interval_symbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_interval_symbol.h
+END
+qwt_point_3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_point_3d.cpp
+END
+qwt_counter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_counter.cpp
+END
+qwt_analog_clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_analog_clock.h
+END
+qwt_plot_spectrocurve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qwt/!svn/ver/1157/branches/qwt-6.0/src/qwt_plot_spectrocurve.cpp
+END
+qwt_plot_curve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qwt/!svn/ver/1330/branches/qwt-6.0/src/qwt_plot_curve.cpp
+END
+qwt_matrix_raster_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_matrix_raster_data.h
+END
+qwt_panner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qwt/!svn/ver/1374/branches/qwt-6.0/src/qwt_panner.cpp
+END
+qwt_plot_spectrogram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1282/branches/qwt-6.0/src/qwt_plot_spectrogram.cpp
+END
+qwt_interval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_interval.cpp
+END
+qwt_plot_dict.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qwt/!svn/ver/1205/branches/qwt-6.0/src/qwt_plot_dict.h
+END
+qwt_knob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qwt/!svn/ver/1323/branches/qwt-6.0/src/qwt_knob.cpp
+END
+qwt_dial_needle.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_dial_needle.h
+END
+qwt_null_paintdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_null_paintdevice.h
+END
+qwt_spline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_spline.cpp
+END
+qwt_scale_widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_scale_widget.h
+END
+qwt_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qwt/!svn/ver/1158/branches/qwt-6.0/src/qwt_global.h
+END
+qwt_plot_seriesitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_seriesitem.cpp
+END
+qwt_plot_renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1397/branches/qwt-6.0/src/qwt_plot_renderer.h
+END
+qwt_wheel.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_wheel.h
+END
+qwt_abstract_slider.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_abstract_slider.h
+END
+qwt_analog_clock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1323/branches/qwt-6.0/src/qwt_analog_clock.cpp
+END
+qwt_picker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qwt/!svn/ver/1146/branches/qwt-6.0/src/qwt_picker.cpp
+END
+qwt_plot_marker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1127/branches/qwt-6.0/src/qwt_plot_marker.cpp
+END
+qwt_color_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_color_map.h
+END
+qwt_column_symbol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qwt/!svn/ver/1293/branches/qwt-6.0/src/qwt_column_symbol.cpp
+END
+qwt_event_pattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_event_pattern.h
+END
+qwt_point_3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qwt/!svn/ver/1082/branches/qwt-6.0/src/qwt_point_3d.h
+END
+qwt_counter.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qwt/!svn/ver/1322/branches/qwt-6.0/src/qwt_counter.h
+END
+qwt_abstract_scale_draw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_abstract_scale_draw.cpp
+END
+qwt_panner.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_panner.h
+END
+qwt_math.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_math.cpp
+END
+qwt_scale_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qwt/!svn/ver/1070/branches/qwt-6.0/src/qwt_scale_map.h
+END
+qwt_plot_directpainter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/qwt/!svn/ver/1374/branches/qwt-6.0/src/qwt_plot_directpainter.cpp
+END
+qwt_scale_div.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_scale_div.h
+END
+qwt_legend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_legend.cpp
+END
+qwt_thermo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qwt/!svn/ver/1361/branches/qwt-6.0/src/qwt_thermo.cpp
+END
+qwt_plot_rescaler.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_rescaler.h
+END
+qwt_plot_renderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qwt/!svn/ver/1395/branches/qwt-6.0/src/qwt_plot_renderer.cpp
+END
+qwt_wheel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qwt/!svn/ver/1323/branches/qwt-6.0/src/qwt_wheel.cpp
+END
+qwt_curve_fitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_curve_fitter.h
+END
+qwt_text_engine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_text_engine.cpp
+END
+qwt_abstract_scale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_abstract_scale.cpp
+END
+qwt_plot_layout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1125/branches/qwt-6.0/src/qwt_plot_layout.cpp
+END
+qwt_plot_seriesitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qwt/!svn/ver/1117/branches/qwt-6.0/src/qwt_plot_seriesitem.h
+END
+qwt_plot_canvas.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1205/branches/qwt-6.0/src/qwt_plot_canvas.h
+END
+qwt_plot_panner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_panner.cpp
+END
+qwt_plot_rasteritem.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_plot_rasteritem.h
+END
+qwt_plot_marker.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_marker.h
+END
+qwt_scale_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1024/branches/qwt-6.0/src/qwt_scale_map.cpp
+END
+qwt_arrow_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_arrow_button.h
+END
+qwt_point_polar.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_point_polar.h
+END
+qwt_abstract_scale_draw.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_abstract_scale_draw.h
+END
+qwt_dyngrid_layout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1150/branches/qwt-6.0/src/qwt_dyngrid_layout.cpp
+END
+qwt_clipper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_clipper.cpp
+END
+qwt_system_clock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_system_clock.cpp
+END
+qwt_plot_directpainter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_plot_directpainter.h
+END
+qwt_picker_machine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1363/branches/qwt-6.0/src/qwt_picker_machine.cpp
+END
+qwt_plot_axis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1024/branches/qwt-6.0/src/qwt_plot_axis.cpp
+END
+qwt_sampling_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_sampling_thread.h
+END
+qwt_dial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qwt/!svn/ver/1345/branches/qwt-6.0/src/qwt_dial.cpp
+END
+qwt_interval_symbol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qwt/!svn/ver/1080/branches/qwt-6.0/src/qwt_interval_symbol.cpp
+END
+qwt_compass.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_compass.h
+END
+src.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/qwt/!svn/ver/1379/branches/qwt-6.0/src/src.pro
+END
+qwt_round_scale_draw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1080/branches/qwt-6.0/src/qwt_round_scale_draw.cpp
+END
+qwt_plot_picker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1070/branches/qwt-6.0/src/qwt_plot_picker.cpp
+END
+qwt_matrix_raster_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_matrix_raster_data.cpp
+END
+qwt_plot_zoomer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_zoomer.h
+END
+qwt_plot_layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_plot_layout.h
+END
+qwt_plot_dict.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_dict.cpp
+END
+qwt_plot.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qwt/!svn/ver/1070/branches/qwt-6.0/src/qwt_plot.h
+END
+qwt_dial_needle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1080/branches/qwt-6.0/src/qwt_dial_needle.cpp
+END
+qwt_null_paintdevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_null_paintdevice.cpp
+END
+qwt_plot_spectrocurve.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_plot_spectrocurve.h
+END
+qwt_plot_curve.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qwt/!svn/ver/1417/branches/qwt-6.0/src/qwt_plot_curve.h
+END
+qwt_plot_histogram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_histogram.cpp
+END
+qwt_plot_magnifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_magnifier.cpp
+END
+qwt_spline.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_spline.h
+END
+qwt_compass_rose.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_compass_rose.h
+END
+qwt_painter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qwt/!svn/ver/1374/branches/qwt-6.0/src/qwt_painter.cpp
+END
+qwt_system_clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_system_clock.h
+END
+qwt_abstract_slider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_abstract_slider.cpp
+END
+qwt_symbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_symbol.h
+END
+qwt_round_scale_draw.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_round_scale_draw.h
+END
+qwt_plot_picker.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_picker.h
+END
+qwt_scale_engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qwt/!svn/ver/1024/branches/qwt-6.0/src/qwt_scale_engine.h
+END
+qwt_slider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_slider.cpp
+END
+qwt_plot_grid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_plot_grid.cpp
+END
+qwt_double_range.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1230/branches/qwt-6.0/src/qwt_double_range.cpp
+END
+qwt_column_symbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_column_symbol.h
+END
+qwt_scale_div.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1236/branches/qwt-6.0/src/qwt_scale_div.cpp
+END
+qwt_raster_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_raster_data.h
+END
+qwt_plot_histogram.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_histogram.h
+END
+qwt_curve_fitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1011/branches/qwt-6.0/src/qwt_curve_fitter.cpp
+END
+qwt_legend.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_legend.h
+END
+qwt_thermo.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_thermo.h
+END
+qwt_plot_magnifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_magnifier.h
+END
+qwt_magnifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_magnifier.h
+END
+qwt_scale_draw.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_scale_draw.h
+END
+qwt_plot_canvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1377/branches/qwt-6.0/src/qwt_plot_canvas.cpp
+END
+qwt_scale_engine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1230/branches/qwt-6.0/src/qwt_scale_engine.cpp
+END
+qwt_legend_itemmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_legend_itemmanager.h
+END
+qwt_plot_rasteritem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qwt/!svn/ver/1267/branches/qwt-6.0/src/qwt_plot_rasteritem.cpp
+END
+qwt_abstract_scale.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_abstract_scale.h
+END
+qwt_series_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1085/branches/qwt-6.0/src/qwt_series_data.cpp
+END
+qwt_text_label.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qwt/!svn/ver/1079/branches/qwt-6.0/src/qwt_text_label.cpp
+END
+qwt_arrow_button.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_arrow_button.cpp
+END
+qwt_plot_grid.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_plot_grid.h
+END
+qwt_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qwt/!svn/ver/1082/branches/qwt-6.0/src/qwt_compat.h
+END
+qwt_scale_widget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1229/branches/qwt-6.0/src/qwt_scale_widget.cpp
+END
+qwt_knob.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_knob.h
+END
+qwt_sampling_thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/src/qwt_sampling_thread.cpp
+END
+qwt_plot_item.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qwt/!svn/ver/1064/branches/qwt-6.0/src/qwt_plot_item.h
+END

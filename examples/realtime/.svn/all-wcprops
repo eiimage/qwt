@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/qwt/!svn/ver/1374/branches/qwt-6.0/examples/realtime
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/qwt/!svn/ver/1374/branches/qwt-6.0/examples/realtime/mainwindow.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/examples/realtime/README
+END
+start.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/examples/realtime/start.xpm
+END
+randomplot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/qwt/!svn/ver/1080/branches/qwt-6.0/examples/realtime/randomplot.cpp
+END
+realtime.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/examples/realtime/realtime.pro
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/examples/realtime/mainwindow.h
+END
+scrollbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/realtime/scrollbar.cpp
+END
+randomplot.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/realtime/randomplot.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/realtime/main.cpp
+END
+scrollbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/realtime/scrollbar.h
+END
+scrollzoomer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/realtime/scrollzoomer.cpp
+END
+scrollzoomer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/realtime/scrollzoomer.h
+END
+incrementalplot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/realtime/incrementalplot.cpp
+END
+incrementalplot.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/realtime/incrementalplot.h
+END
+clear.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/examples/realtime/clear.xpm
+END

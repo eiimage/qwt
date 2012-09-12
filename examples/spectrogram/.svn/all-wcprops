@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/spectrogram
+END
+plot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/spectrogram/plot.cpp
+END
+plot.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/spectrogram/plot.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/spectrogram/main.cpp
+END
+spectrogram.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/examples/spectrogram/spectrogram.pro
+END

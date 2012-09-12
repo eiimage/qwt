@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 67
+?      html
+?      latex
+?      Doxygen.log
+html
+latex
+Doxygen.log
+
+END

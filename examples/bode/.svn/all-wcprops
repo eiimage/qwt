@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/qwt/!svn/ver/1374/branches/qwt-6.0/examples/bode
+END
+plot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/bode/plot.cpp
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/bode/mainwindow.h
+END
+plot.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/bode/plot.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/bode/main.cpp
+END
+complexnumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/bode/complexnumber.h
+END
+pixmaps.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/bode/pixmaps.h
+END
+bode.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/examples/bode/bode.pro
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1374/branches/qwt-6.0/examples/bode/mainwindow.cpp
+END

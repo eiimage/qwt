@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/navigation
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/navigation/mainwindow.cpp
+END
+navigation.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/examples/navigation/navigation.pro
+END
+plot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/navigation/plot.cpp
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/navigation/mainwindow.h
+END
+plot.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/navigation/plot.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/navigation/main.cpp
+END

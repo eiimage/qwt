@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/tvplot
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/tvplot/main.cpp
+END
+tvplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/examples/tvplot/tvplot.pro
+END
+tvplot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/tvplot/tvplot.cpp
+END
+tvplot.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/tvplot/tvplot.h
+END

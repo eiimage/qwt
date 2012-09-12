@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 103
+obj
+sysinfo
+Makefile
+moc
+moc-release
+obj-release-shared
+.qmake.cache
+Makefile.target
+sysinfo.pro.cache
+
+END

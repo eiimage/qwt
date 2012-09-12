@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 99
+obj
+Makefile
+moc
+radio
+moc-release
+obj-release-shared
+.qmake.cache
+Makefile.target
+radio.pro.cache
+
+END

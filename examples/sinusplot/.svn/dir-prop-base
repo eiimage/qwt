@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 106
+simple
+obj
+Makefile
+moc
+moc-release
+obj-release-shared
+.qmake.cache
+Makefile.target
+simple_plot.pro.cache
+
+END

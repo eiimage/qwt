@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 124
+qtmmlwidget.cpp
+qtmmlwidget.h
+obj
+Makefile
+moc
+moc-release
+obj-release-shared
+.qmake.cache
+Makefile.target
+mathml.pro.cache
+
+END

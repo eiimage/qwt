@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/qwt/!svn/ver/1080/branches/qwt-6.0/examples/cpuplot
+END
+cpupiemarker.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/cpuplot/cpupiemarker.h
+END
+cpustat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/cpuplot/cpustat.cpp
+END
+cpuplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1007/branches/qwt-6.0/examples/cpuplot/cpuplot.pro
+END
+cpuplot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/qwt/!svn/ver/1080/branches/qwt-6.0/examples/cpuplot/cpuplot.cpp
+END
+cpupiemarker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/qwt/!svn/ver/1076/branches/qwt-6.0/examples/cpuplot/cpupiemarker.cpp
+END
+cpustat.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/cpuplot/cpustat.h
+END
+cpuplot.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/qwt/!svn/ver/1073/branches/qwt-6.0/examples/cpuplot/cpuplot.h
+END

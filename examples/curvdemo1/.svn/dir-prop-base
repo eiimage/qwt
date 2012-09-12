@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 107
+curvdemo1
+obj
+Makefile
+moc
+moc-release
+obj-release-shared
+.qmake.cache
+Makefile.target
+curvdemo1.pro.cache
+
+END
