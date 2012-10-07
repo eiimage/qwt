@@ -14,27 +14,6 @@ CONFIG   += ordered
 
 SUBDIRS = \
     src \
-    textengines
-
-contains(QWT_CONFIG, QwtDesigner ) {
-
-    greaterThan(QT_MAJOR_VERSION, 4) {
-
-        # the API for plugins has changed for Qt5, but
-        # the new API is completely undocumented yet
-
-        message( The Qwt designer plugin is not yet ported to Qt 5 )
-   
-	} 
-    else {
-
-    	SUBDIRS += designer 
-    }
-}
-
-contains(QWT_CONFIG, QwtExamples ) {
-    SUBDIRS += examples 
-}
 
 qwtspec.files  = qwtconfig.pri qwtfunctions.pri qwt.prf
 qwtspec.path  = $${QWT_INSTALL_FEATURES}

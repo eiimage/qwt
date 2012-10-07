@@ -70,6 +70,6 @@ unix {
         # linker path, so that the installed libraries will be
         # used instead of the local ones.
 
-        error( "local build will conflict with $${QMAKE_LIBDIR_QT}/libqwt.*" )
+        #error( "local build will conflict with $${QMAKE_LIBDIR_QT}/libqwt.*" )
     }
 }
